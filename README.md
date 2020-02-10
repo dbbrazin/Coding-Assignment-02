@@ -107,8 +107,8 @@ Resources:
 ### Part 5. `UIImagePickerController`
 
 Resources:
-- [Delegate Review]()
-- [Protocol Review]()
+- [Delegate Review](https://github.com/SyracuseUniversity-CIS444/CIS-444/blob/master/Lectures/L7%20Swift%20Programming%20Language/CIS-444-Lecture-07.md/#Delegation)
+- [Protocol Review](https://github.com/SyracuseUniversity-CIS444/CIS-444/blob/master/Lectures/L7%20Swift%20Programming%20Language/CIS-444-Lecture-07.md/#Protocol)
 - [UIImagePickerController Documentation](https://developer.apple.com/documentation/uikit/uiimagepickercontroller)
 - [PickerControllerDelegate](https://developer.apple.com/documentation/uikit/uiimagepickercontrollerdelegate)
 
@@ -177,9 +177,9 @@ extension LandingViewController: UINavigationControllerDelegate, UIImagePickerCo
 ### Part 8. We need to create a screen that will show the image we picked and the randomly selected caption. A view controller we named `CaptionedViewController` will be responsible for that. I provided a video to watch first and documentation for this step. (Also see segue lecture)
 
 Resources:
-- [What are segues]()
+- [What are segues](https://digitalleaves.com/segues-navigation-ios-basics/)
 - [How to create segues](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/UsingSegues.html)
-- Video of me creating segue [here](https://vimeo.com/390535183)
+- 📹 of this step [here](https://vimeo.com/390535183)
 
 After you watched the video do the following:
 
