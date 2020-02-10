@@ -227,7 +227,7 @@ How do we do that?
 
 
 ---
-## Addtional Resources 
+## Additional Resources 
 - [Common Xcode Errors](https://github.com/SyracuseUniversity-CIS444/CIS-444/wiki/Common-Xcode-Errors)
 - [Additional Resources](https://github.com/SyracuseUniversity-CIS444/CIS-444/wiki/Additional-Resources)
 
