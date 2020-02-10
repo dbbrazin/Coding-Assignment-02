@@ -17,7 +17,7 @@ This assignment must be submitted using GitHub (you can find instructions [here]
 This assignment is rather lengthy and combines 3 weeks of concepts. Please don't attempt to do the entire assignment in 1 night. These are critical building blocks and concepts you must master before advancing. 
 
 ---
-### Overall Deliverable for assignment #1:
+### Overall Deliverable for assignment #2:
 
 1. Allow a user to select a photo from their image gallery
 2. Display the image with a random caption 
